@@ -1,5 +1,5 @@
-/public/
-/app/server-bundle.js
+.idea/workspace.xml
+.idea/tasks.xml
 dist
 node_modules
 *.log
