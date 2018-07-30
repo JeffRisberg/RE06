@@ -4,10 +4,6 @@
   "main": "index.js",
   "author": "Jeff Risberg",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JeffRisberg/RE06/issues"
-  },
-  "homepage": "https://github.com/JeffRisberg/RE06#readme",
   "description": "Nile bookstore",
   "scripts": {
     "test": "jest",
@@ -24,7 +20,6 @@
     "babel-preset-react": "^6.24.1",
     "history": "^4.7.2",
     "jest-cli": "^23.4.2",
-    "react-addons-test-utils": "15.6.2",
     "webpack": "^4.16.4",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.5"
