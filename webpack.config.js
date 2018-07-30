@@ -7,8 +7,11 @@ module.exports = {
   },
   devtool: '#sourcemap',
   stats: {
-   colors: true,
-   reasons: true
+    colors: true,
+    reasons: true
+  },
+  devServer: {
+    contentBase: __dirname + '/dist',
   },
   module: {
     rules: [

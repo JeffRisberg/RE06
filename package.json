@@ -9,7 +9,8 @@
     "test": "jest",
     "test-watch": "jest --watch",
     "build-watch": "./node_modules/.bin/webpack -w",
-    "build": "./node_modules/.bin/webpack"
+    "build": "./node_modules/.bin/webpack",
+    "start": "webpack-dev-server --open"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -28,7 +29,7 @@
     "history": "^4.5.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-router": "^3.0.2"
+    "react-router": "^3.2.1"
   },
   "repository": {
     "type": "git",
