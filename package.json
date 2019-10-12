@@ -21,8 +21,8 @@
     "babel-preset-react": "^6.24.1",
     "jest-cli": "^23.6.0",
     "webpack": "^4.41.1",
-    "webpack-cli": "^3.3.7",
-    "webpack-dev-server": "^3.7.2"
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
   },
   "dependencies": {
     "history": "^4.10.1",
